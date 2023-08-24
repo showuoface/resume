@@ -4,5 +4,5 @@ module.exports = defineConfig({
 });
 
 module.exports = {
-  publicPath: "/hello-vue-app/",
+  publicPath: "/resume/",
 };
